@@ -1,0 +1,3 @@
+my_dictionary = {"FName":"John", "SName":"ORaw", "Occupation":"Rocket Scientist"}
+print(my_dictionary)
+print("Works as a " + my_dictionary["Occupation"])
